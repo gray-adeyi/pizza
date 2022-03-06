@@ -1,3 +1,6 @@
 *.pyc
 .env
 *~
+./pizza/.dummy_contacts.json
+.pytest_cache
+.*.json
